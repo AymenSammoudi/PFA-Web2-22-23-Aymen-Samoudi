@@ -1,0 +1,7 @@
+- Pour executer sans Erreurs, il faut utiliser :
+
+*** Version de XAMPP c'est : 7.3.29
+
+- Le lien de Mon projet Web site heberger :
+
+*** carroad.000webhostapp.com -> lien de 22/23
